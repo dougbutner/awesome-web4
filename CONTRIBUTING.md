@@ -7,16 +7,13 @@ Please ensure your pull request adheres to the following guidelines:
 -   Make an individual pull request for each suggestion.
 -   Use the following format:  `[PACKAGE](LINK) - DESCRIPTION.`
 -   New categories, or improvements to the existing categorization are welcome.
--   Keep descriptions short and simple, but descriptive.
+-   Keep descriptions short and simple, one sentence when possible, but descriptive.
 -   End all descriptions with a **period**.
 -   Check your spelling and grammar.
 
 
 
-Ed
-
-
 Thank you for your suggestions!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjMyMzQyODhdfQ==
+eyJoaXN0b3J5IjpbMTA0NzUwNTQ1OV19
 -->
