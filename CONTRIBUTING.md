@@ -14,7 +14,7 @@ Please ensure your pull request adheres to the following guidelines:
 
 
 
-Thank you for your suggestions!
+Thank you for your suggestions and contributions to web 4!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0MjQwOTAzLDEwNDc1MDU0NTldfQ==
+eyJoaXN0b3J5IjpbLTYzMzE4OTk2NCwxMDQ3NTA1NDU5XX0=
 -->
