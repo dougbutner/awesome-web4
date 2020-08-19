@@ -1,6 +1,6 @@
 # Contribution Guidelines
 
-Please ensure your pull request adheres to the following guidelines:
+> Please ensure your pull request adheres to the following guidelines:
 
 -   **Search previous suggestions** before making a new one, as yours may be a duplicate.
 -   Suggested packages should be **tested and documented**.
@@ -16,5 +16,5 @@ Please ensure your pull request adheres to the following guidelines:
 
 Thank you for your suggestions and contributions to web 4!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMzE4OTk2NCwxMDQ3NTA1NDU5XX0=
+eyJoaXN0b3J5IjpbMTE0NDA4Mzc5OCwxMDQ3NTA1NDU5XX0=
 -->
