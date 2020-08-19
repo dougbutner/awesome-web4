@@ -3,8 +3,10 @@
 
 > 🎉  A curated list of awesome things related to Web 4: The Democratic Web!!
 
-# Learn about Web 4
+## Learn about Web 4
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzOTc3NzkxNCwxMzUwODUwOTcyLDEzMT
-I4NzQ1MjhdfQ==
+eyJoaXN0b3J5IjpbNTMzNDgzNjgxLDEzNTA4NTA5NzIsMTMxMj
+g3NDUyOF19
 -->
