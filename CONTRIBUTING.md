@@ -8,11 +8,15 @@ Please ensure your pull request adheres to the following guidelines:
 -   Use the following format:  `[PACKAGE](LINK) - DESCRIPTION.`
 -   New categories, or improvements to the existing categorization are welcome.
 -   Keep descriptions short and simple, but descriptive.
--   End all descriptions with a full stop/period.
+-   End all descriptions with a **period**.
 -   Check your spelling and grammar.
 -   Make sure your text editor is set to remove trailing whitespace.
 
+
+Ed
+
+
 Thank you for your suggestions!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MzAxMDI4XX0=
+eyJoaXN0b3J5IjpbOTMzMzExOTQzXX0=
 -->
