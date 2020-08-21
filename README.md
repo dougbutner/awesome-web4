@@ -1,7 +1,7 @@
 # Awesome Web 4
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/dougbutner/awesome-web4)
 
-> 🎉  A curated list of awesome things related to Web 4: The Democratic Web!!
+> ⚕️A curated list of awesome things related to Web 4: The Democratic Web 🌐 
 
 ## Learn about Web 4
 
@@ -14,6 +14,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDMyODMzMjksNTMzNDgzNjgxLDEzNT
-A4NTA5NzIsMTMxMjg3NDUyOF19
+eyJoaXN0b3J5IjpbMTc5NDkwMzA0LDUzMzQ4MzY4MSwxMzUwOD
+UwOTcyLDEzMTI4NzQ1MjhdfQ==
 -->
