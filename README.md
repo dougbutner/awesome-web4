@@ -10,13 +10,21 @@
 ## Learn about Web 4
 [Web 4 Manifesto](https://github.com/dougbutner/web-4) - Defines web 4 ideas, philosophies, and components.
 
+## Papers Related to Web 4
+[Purple Paper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview) - Details an economic system involing Time Tokens.
+
+[Effective Collective (Draft)](https://github.com/dougbutner/effective-collective) - A system that rewards citizen's opinions on what social and elective projects to fund. Uses time tokens + geosocial layers. 
 
 ## dApps Related to Web 4
-[cXc Music](https:///music.cxc.world) - Music Map web app incorporating Time Units and geotemporal curation. 
+[cxc.world](https://cxc.world) - Music Map web app incorporating Time Units and geotemporal curation. 
 
 
 
 
+
+## Contribute
+Add to this list following this format: [title](link) - Description sentence
+You may add sections. If you are unsure, please open an issue. 
 
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbMTU1MzM5OTUyMSwyMzc4OTEzMjMsLTE1MD
