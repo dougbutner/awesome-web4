@@ -8,10 +8,10 @@
 > ⚕️A curated list of awesome things related to Web 4: The Democratic Web 🌐 
 
 ## Learn about Web 4
-[Web 4 Manifesto](https://github.com/dougbutner/web-4) - Defines web 4 ideas, philosophies, and components.
+[Web 4 Manifesto](https://github.com/dougbutner/web-4) - Defines Web 4 ideas, philosophies, and components.
 
 ## Papers Related to Web 4
-[Purple Paper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview) - Details an economic system involing Time Tokens.
+[Purple Paper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview) - Details an economic system involving Time Tokens.
 
 [Effective Collective (Draft)](https://github.com/dougbutner/effective-collective) - A system that rewards citizen's opinions on what social and elective projects to fund. Uses time tokens + geosocial layers. 
 
