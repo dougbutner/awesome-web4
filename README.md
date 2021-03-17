@@ -5,7 +5,7 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://github.com/dougbutner/awesome-web4)
 
-> ⚕️A curated list of awesome things related to Web 4: The Democratic Web 🌐 
+> ⚕️A curated list of awesome things related to Web 4: The Geotemporal Web 🌐 
 
 ## Learn about Web 4
 [Web 4 Manifesto](https://github.com/dougbutner/web-4) - Defines Web 4 ideas, philosophies, and components.
