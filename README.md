@@ -10,24 +10,43 @@
 ## Learn about Web 4
 [Web 4 Manifesto](https://github.com/dougbutner/web-4) - Defines Web 4 ideas, philosophies, and components.
 
-## Papers Related to Web 4
-[Purple Paper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview) - Details an economic system involving Time Tokens.
-
+## History of Web 4: Papers Describing Early Systems by Douglas Butner
+[Purple Paper](https://docs.google.com/document/d/1T2JH9J73WjgZ9-cULJAzrYvZzyPSXEA_fdgt21lHnDc/preview) - Details the first an economic system involving Time Tokens.
+[Purple Explainer](https://github.com/currentxchange/purple-explainer) - 
 [Effective Collective (Draft)](https://github.com/dougbutner/effective-collective) - A system that rewards citizen's opinions on what social and elective projects to fund. Uses time tokens + geosocial layers. 
 
 ## dApps Related to Web 4
-[cxc.world](https://cxc.world) - Music Map web app incorporating Time Units and geotemporal curation. 
+[cXc.world](https://cxc.world) - Music Map web app incorporating Time Units and geotemporal curation. 
+
+[Hypha.earth](https://dho.hypha.earth/) - Decentralized Human Organization (DHO) with villages capabilities
+
+[Eden](https://edeneos.org/) - Fractal governance system used for distributing funds to community contributers
 
 
+# Dapps + Apps by Module
 
+Find dapp descriptions in proceeding section.
+
+## Time Tokens (Module One)
+
+[cXc.world](https://cxc.world)
+
+## Proof of Individuality
+
+[Eden](https://edeneos.org/)
+
+## Information Entropy
+
+## Geo-social Systems
+
+[Hypha](https://dho.hypha.earth/)
+
+[cXc.world](https://cxc.world)
 
 
 ## Contribute
 Add to this list following this format: [title](link) - Description sentence
 You may add sections. If you are unsure, please open an issue. 
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MzM5OTUyMSwyMzc4OTEzMjMsLTE1MD
-Q2NTg4NzAsLTExOTY5NDY2MTYsMTc5NDkwMzA0LDUzMzQ4MzY4
-MSwxMzUwODUwOTcyLDEzMTI4NzQ1MjhdfQ==
--->
+
+Managed by [Douglas Butner](https://douglas.life) (@godsolislove on telegram)
