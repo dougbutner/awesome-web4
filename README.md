@@ -22,6 +22,7 @@
 
 [Eden](https://edeneos.org/) - Fractal governance system used for distributing funds to community contributers
 
+[Fractally](http://fractally.com/) - General-purpose Fractal software on Hive / EOS
 
 # Dapps + Apps by Module
 
