@@ -50,4 +50,4 @@ Add to this list following this format: [title](link) - Description sentence
 You may add sections. If you are unsure, please open an issue. 
 
 
-Managed by [Douglas Butner](https://douglas.life) (@godsolislove on telegram)
+Managed by [Douglas Butner](https://linktr.ee/iammonlove) (@godsolislove on telegram)
