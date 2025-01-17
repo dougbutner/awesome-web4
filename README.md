@@ -23,6 +23,8 @@
 
 [Tetra.Earth](https://tetra.earth) - The first full Web4 system, including localized currency, social verification, and social funding [linktree](http://linktr.ee/tetra.earth)
 
+[Pangea](https://pangea.web4.world/) - Web4 Passport for Future Economies. Antelope blockchain with DID (digital identity)
+
 ## dApps Related to Web4
 [cXc.world](https://cxc.world) - Music Map web app incorporating Time Units and geotemporal curation. [linktree](http://linktr.ee/cXc.world)
 
